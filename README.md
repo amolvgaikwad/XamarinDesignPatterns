@@ -1,2 +1,2 @@
-# XamarinDesignPatterns
-Repository contains the advanced level concepts of Xamarin. 
+# Azure Design Patterns
+Repository contains the advanced level concepts of Azure.
